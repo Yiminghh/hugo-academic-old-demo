@@ -1,0 +1,1 @@
+# 旧版Hugo学术主题 | The old version of Hugo academic theme
