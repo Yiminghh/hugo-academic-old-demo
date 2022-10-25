@@ -5,8 +5,11 @@ Hexo+github.io是当前最广为人知的个人网站搭建方法，但Hexo的�
 ![请添加图片描述](https://img-blog.csdnimg.cn/b83fbd82032345d9ab3c2673f1517c54.png)
 
 [简陋版效果](https://Yiminghh.github.io)
+
 [大佬效果1](https://shiruipan.github.io/)
+
 [大佬效果2](https://linzhuyue.github.io/)
+
 # 二、安装Hugo
 参考 [Hugo中文文档](https://www.gohugo.org/)
 
